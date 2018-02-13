@@ -1,0 +1,11 @@
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\obj\Debug\netcoreapp2.0\fizzBuzz.csprojResolveAssemblyReference.cache
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\obj\Debug\netcoreapp2.0\fizzBuzz.csproj.CoreCompileInputs.cache
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\obj\Debug\netcoreapp2.0\fizzBuzz.AssemblyInfoInputs.cache
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\obj\Debug\netcoreapp2.0\fizzBuzz.AssemblyInfo.cs
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\bin\Debug\netcoreapp2.0\fizzBuzz.deps.json
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\bin\Debug\netcoreapp2.0\fizzBuzz.runtimeconfig.json
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\bin\Debug\netcoreapp2.0\fizzBuzz.runtimeconfig.dev.json
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\bin\Debug\netcoreapp2.0\fizzBuzz.dll
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\bin\Debug\netcoreapp2.0\fizzBuzz.pdb
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\obj\Debug\netcoreapp2.0\fizzBuzz.dll
+D:\Abysmal Gale\CSprojects\fizzBuzz\fizzBuzz\obj\Debug\netcoreapp2.0\fizzBuzz.pdb
